@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "@vue/cli-service": "^5.0.8",
-    "gh-pages": "^3.2.3",
+    "gh-pages": "^5.0.0",
     "vue-template-compiler": "^2.7.14"
   }
 }
